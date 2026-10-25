@@ -9,6 +9,13 @@ startup script.
 > not the native Termux environment. The display resolution can remain
 > at `1280×720`.
 
+## 📚 Setup Guides
+
+Choose a guide:
+
+- **[Zed Editor Setup](ZED-XFCE-Setup.md)** — Install and launch Zed in Xed Ubuntu with XFCE, and configure a custom AI provider.
+- **[GPU Acceleration Setup](Isolated-Mesa-Turnip-GPU-Setup.md)** — Set up isolated Mesa/Turnip drivers and test Vulkan support.
+
 ## 1. Install XFCE and essential desktop applications
 
 If you have already installed these packages, there is no need to
